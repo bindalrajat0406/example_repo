@@ -1,3 +1,5 @@
+// this is an example file
+
 #include <stdio.h>
 
 int main() {
